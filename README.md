@@ -1,16 +1,14 @@
-## Hi there 👋
+### Lukas Flottmann
 
-<!--
-**luka0x73/luka0x73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT System Engineer in northern Germany. I build and run storage and
+virtualization infrastructure across three datacenter sites, and rebuild
+the hard parts in a three-node Proxmox and Ceph cluster at home.
 
-Here are some ideas to get you started:
+Focus: Proxmox VE, Ceph, enterprise Linux, SAN and iSCSI storage,
+Ansible and Packer for automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write about what breaks and why at [flottmann.systems](https://flottmann.systems).
+
+#### Latest posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
